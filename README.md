@@ -1,2 +1,2 @@
-# Project
-Trying out git and github with vscode
+## SIGN LANGUAGE RECOGNITION
+# INDIAN SIGN LANGUAGE (ISL)
